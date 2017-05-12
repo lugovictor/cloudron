@@ -1,0 +1,8 @@
+<?php 
+$config['db'] = array (
+  'type' => 'mysql',
+  'server' => '##MYSQL_HOST',
+  'database' => '##MYSQL_DATABASE',
+  'username' => '##MYSQL_USERNAME',
+  'password' => '##MYSQL_PASSWORD'
+);

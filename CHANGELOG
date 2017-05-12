@@ -1,0 +1,8 @@
+[0.1.0]
+* Added MySQL 5.7 support
+[0.0.2]
+* Fixed "Photos" section.
+* Added ImageMagick and FFmpeg for thumbnail generation.
+* Enabled the OAuth2 API to allow mobile apps to connect.
+[0.0.1]
+* Initial version

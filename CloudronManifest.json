@@ -1,0 +1,23 @@
+{
+  "id": "com.filerun.cloudronapp",
+  "title": "FileRun",
+  "author": "Afian AB",
+  "description": "file://DESCRIPTION.md",
+  "changelog": "file://CHANGELOG",
+  "tagline": "Self-hosted Google Drive alternative",
+  "tags": ["file sharing", "files", "gallery", "dropbox", "google drive"],
+  "version": "0.1.0",
+  "healthCheckPath": "/",
+  "httpPort": 8000,
+  "addons": {
+    "localstorage": {},
+    "mysql": {},
+    "sendmail": {}
+  },
+  "manifestVersion": 1,
+  "website": "http://www.filerun.com",
+  "contactEmail": "info@filerun.com",
+  "icon": "file://logo.png",
+  "postInstallMessage": "file://POSTINSTALL.md",
+  "mediaLinks": ["https://www.filerun.com/images/screenshot.jpg"]
+}
